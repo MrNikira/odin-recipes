@@ -1,0 +1,15 @@
+h1 {
+    font-family: sans-serif;
+    size: 72px;
+    color: #292E31;
+}
+
+h2 {
+    font-family: sans-serif;
+    size: 54px;
+}
+
+p, ul, ol {
+    size: 18px;
+    font-family: sans-serif;
+}
