@@ -1,15 +1,20 @@
+* {
+    margin-left: 30px;
+    margin-right: 30px;
+    background-color: floralwhite;
+}
+
 h1 {
     font-family: sans-serif;
-    size: 72px;
-    color: #292E31;
+    font-size: 54px;
 }
 
 h2 {
     font-family: sans-serif;
-    size: 54px;
+    font-size: 40px;
 }
 
 p, ul, ol {
-    size: 18px;
+    font-size: 18px;
     font-family: sans-serif;
 }
