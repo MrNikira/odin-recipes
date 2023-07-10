@@ -26,21 +26,25 @@ p, ul, ol {
 }
 
 img {
-    border: 2px black;
+    border-radius: 10px;
+    margin-top: 10px;
+    width: 980px;
+    display: block;
+    object-fit: contain;
 }
 
 .title {
     background-color: black;
-    padding: 20px;
     margin-top: 10px;
     border-radius: 10px;
     text-align: center;
-
 }
 
 .recipes {
     background-color: black;
-    padding: 20px;
+    color: orange;
     border-radius: 10px;
     margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
