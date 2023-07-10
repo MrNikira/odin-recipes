@@ -25,13 +25,22 @@ p, ul, ol {
     font-family: sans-serif;
 }
 
+img {
+    border: 2px black;
+}
+
 .title {
     background-color: black;
     padding: 20px;
     margin-top: 10px;
+    border-radius: 10px;
+    text-align: center;
+
 }
 
 .recipes {
     background-color: black;
     padding: 20px;
+    border-radius: 10px;
+    margin-top: 10px;
 }
