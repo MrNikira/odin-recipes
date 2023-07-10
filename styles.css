@@ -1,23 +1,37 @@
 * {
-    background-color: floralwhite;
     width: 980px;
     margin: 0 auto;
+}
+
+body {
+    background-color: chocolate;
 }
 
 h1 {
     font-family: sans-serif;
     font-size: 54px;
     font-weight: 700;
-    color: chocolate;
+    color: orange;
 }
 
 h2 {
     font-family: sans-serif;
     font-size: 40px;
-    color: chocolate;
+    color: orange;
 }
 
 p, ul, ol {
     font-size: 18px;
     font-family: sans-serif;
+}
+
+.title {
+    background-color: black;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+.recipes {
+    background-color: black;
+    padding: 20px;
 }
